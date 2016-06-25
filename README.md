@@ -19,3 +19,5 @@ If the user selects “3” the program askw for the username/password combo tha
 they are allowed to delete the user information from the dictionary.
 If the user selects "4", and they must to end the program, all contents of the dictionary are written to the password file.
 
+The special feature of the program is that is an extension of what I learned in my 1st python project. It utilizes the salting/hashing 
+and encoding of all the user information to keep a "secure" password file and not one that can be read in plain text
